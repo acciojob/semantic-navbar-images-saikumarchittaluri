@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+nav{
+	background:yellow;
+}
+a{
+	text-decoration:none;
+	padding:50px;
+}
